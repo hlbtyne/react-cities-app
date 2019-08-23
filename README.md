@@ -9,6 +9,17 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+Go to any of the following URLs:<br>
+/city <br>
+/country <br>
+/allbuildings <br>
+/onehundred <br>
+/onehundredfifty <br>
+/twohundred <br>
+/threehundred <br>
+/telecomtowers <br>
+/allstructures <br>
+
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
